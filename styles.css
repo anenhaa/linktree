@@ -1,0 +1,74 @@
+* {
+    background-color: #ce7bca;
+    margin:0 auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.minibio {
+    margin-top: 60px;
+    text-align: center;
+    color: black;
+}
+
+.foto {
+    width: 300px;
+    border-radius: 50%;
+    height: auto;
+    padding: auto;
+}
+
+.minibio h1 {
+    width: 280px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.minibio p {
+    width: 300px;
+    margin-bottom: 50px;
+    font-size: 19px;
+    font-weight: 400;
+} 
+
+.redes-sociais {
+    width: 300px;
+}
+
+.logo-in {
+    height: 120px;
+    background-color: #f8bdf8;
+    text-align: center;
+}
+
+.logo-insta {
+    height: 100px;
+    background-color: #f8bdf8;
+    text-align: center;
+}
+
+.logo-gmail {
+    height: 100px;
+    background-color: #f8bdf8;
+    text-align: center;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.botão {
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 16px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #f8bdf8;
+    width: 300px;
+    margin: 10px;
+    font-size: 15px;
+    height: 150px;
+}
